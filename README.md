@@ -14,7 +14,7 @@
    - Visualisasi hasil clustering (misalnya, scatter plot).
    - Penjelasan singkat tentang hasil dan interpretasi di dalam notebook.
 
-4. **Pembuatan Virtual Environtment** (optional)
+4. **Pembuatan Virtual Environtment** (optional)   
     Buat temen temen yang mengerjakan di local, wajib menyertakan file `requirements.txt`
     Jalankan potongan kode dibawah ini untuk mempermudah
 
