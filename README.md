@@ -1,4 +1,4 @@
-# Hands-On Clustering Assignment
+# Hands-On 1 Clustering Assignment
 
 ## Ketentuan Tugas
 1. **Dataset**: Gunakan dataset yang ada di Google Sheet berikut:  
